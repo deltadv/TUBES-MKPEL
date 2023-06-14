@@ -5,7 +5,7 @@ public class Persegi {
 	private int sisi;
 	
     // Metode untuk menghitung luas persegi
-	public int hitungLuasPersegi(int sisi) {
+	public int HitungLuasPersegi(int sisi) {
         return sisi * sisi;
     }
 

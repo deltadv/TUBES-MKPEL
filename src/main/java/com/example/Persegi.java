@@ -11,6 +11,6 @@ public class Persegi {
 
     // Metode untuk menghitung keliling persegi
     public int hitungKelilingPersegi(int sisi) {
-        return 4 * sisi;
+        return 5 * sisi;
     }
 }
